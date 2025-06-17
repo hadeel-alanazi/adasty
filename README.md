@@ -1,9 +1,3 @@
-# Adasty - Arabic Photography Showcase Platform
-
-**Adasty** is a web-based platform designed for Arabic-speaking photographers to share and showcase their creative photographs. Users can upload images, explore a gallery categorized by themes, and search by photographer name or category , all through a clean, modern Arabic interface.
-
----
-
 # Project Overview
 
 Adasty isn't just a photo gallery it's a community where visual creativity thrives. The platform empowers photographers from the Arab world to publish their work, gain exposure, and connect with a wider audience.
