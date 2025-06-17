@@ -21,7 +21,7 @@ Adasty isn't just a photo gallery it's a community where visual creativity thriv
 
 ---
 
-#Technologies Used
+# Technologies Used
 
 - HTML5 & CSS3
 - JavaScript
@@ -48,7 +48,7 @@ adasty/
 
 ---
 
-#Contact
+# Contact
 For feedback or suggestions, please reach out via email:
 hadeelalanazi.2025@gmail.com
 
